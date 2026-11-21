@@ -2,6 +2,8 @@
 
 **Dead time is a blank canvas.** Off Period is a mobile-first campus intermission generator. Choose the length of your gap, your energy, and the kind of break you want; it gives you three small moves that fit before the next bell.
 
+**Live app:** https://off-period-gap-club.embarko.app
+
 ## What it does
 
 - Builds a three-step mini-adventure around time available, energy, and the chosen vibe.
@@ -16,4 +18,4 @@ Open `index.html` in a browser. The app is a single static file with no build st
 
 ## Deploy
 
-Upload `index.html` to Embarko as a static site. It needs no server or environment variables.
+Off Period is deployed as a static site on Embarko. It needs no server or environment variables. The challenge preview must be claimed from its Embarko link to stay live after the preview period.
